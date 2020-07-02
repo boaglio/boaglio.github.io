@@ -1,0 +1,3 @@
+[submodule "silent-night"]
+	path = silent-night
+	url = https://github.com/boaglio/silent-night
